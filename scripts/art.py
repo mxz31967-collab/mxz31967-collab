@@ -51,9 +51,9 @@ def postcard(entry, count, energy):
 
 def hero():
     b='<rect width="1000" height="250" rx="24" fill="#173f3c"/><circle cx="920" cy="-60" r="230" fill="#285a50"/><circle cx="740" cy="260" r="130" fill="#204b43"/>'
-    b+=text(52,56,'欢迎来到我的 GitHub 小乐园',18,'#bad9bf')+text(48,120,'捡游戏 · 养小呱 · 拆盲盒',39,'#fff8e8','700')
-    b+=text(52,173,'给日常留一点小惊喜。',22,'#d8e8d5')+text(52,214,'Steam 游戏雷达  /  旅行明信片  /  贪吃蛇  /  每日网站',15,'#a7c9b4')+frog(876,163,.8)
-    return frame(b,250,'我的 GitHub 小乐园')
+    b+=text(52,56,'我的首页',18,'#bad9bf')+text(48,120,'今天看看什么',39,'#fff8e8','700')
+    b+=text(52,173,'看看游戏，喂小呱，拆个盲盒。',22,'#d8e8d5')+text(52,214,'Steam 游戏雷达  /  旅行明信片  /  贪吃蛇  /  每日网站',15,'#a7c9b4')+frog(876,163,.8)
+    return frame(b,250,'我的首页')
 
 def footprints(history):
     recent=history[-8:]; w=1000; body='<rect width="1000" height="145" rx="18" fill="#f1f5ee"/>'+text(24,32,'最近的旅行足迹 · 路线示意',15,'#6a7c72')

@@ -1,40 +1,40 @@
-<p align="center"><img src="https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/welcome.svg" alt="我的 GitHub 小乐园" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/welcome-77e464ff5aa8.svg" alt="我的首页" width="100%"></p>
 
-<p align="center"><a href="#steam">🎮 捡游戏</a>　·　<a href="#frog">🐸 看小呱</a>　·　<a href="#box">🎁 拆盲盒</a>　·　<a href="#snake">🐍 看贪吃蛇</a>　·　<a href="https://github.com/mxz31967-collab/mxz31967-collab/blob/main/使用指南.md">📖 中文使用指南</a></p>
+<p align="center"><a href="#steam">🎮 捡游戏</a>　·　<a href="#frog">🐸 看小呱</a>　·　<a href="#box">🎁 拆盲盒</a>　·　<a href="#snake">🐍 看贪吃蛇</a>　·　<a href="https://github.com/mxz31967-collab/mxz31967-collab/blob/main/使用指南.md">📖 操作备忘</a></p>
 
-> 最近更新：北京时间 2026-09-16 18:42。平时打开这个主页就能看；Steam 活动需要你自己到商店领取或启动试玩。
+> 上次更新：北京时间 2026-09-16 18:42 · 每天 08:17 自动更新。
 
 <a id="steam"></a>
 ## 🎮 Steam 免费游戏雷达
 
-只看 Steam。优先显示商店提供的中文名；没有中文名时保留原名，玩法与领取提示仍是中文。
+有想玩的就点进商店，记得在活动结束前领取。
 
 ### 🎁 限时领取 · 永久保留
 
 检查时间：2026-09-16 18:02（北京时间）
 
-<p><strong>Crystal Crisis</strong> · 领取后永久保留<br>在 9 月 21 日 下午 11:59 前获取该商品，即可免费保留。 存在一些限制。<br><a href="https://store.steampowered.com/app/447700/?cc=cn&amp;l=schinese">打开 Steam 中文商店 →</a></p>
+<p><strong>Crystal Crisis</strong> · 领取后永久保留<br>在 9 月 21 日 下午 11:59 前获取该商品，即可免费保留。 存在一些限制。<br><a href="https://store.steampowered.com/app/447700/?cc=cn&amp;l=schinese">去 Steam 看看 →</a></p>
 
 ### ⏳ 免费周末 · 限时试玩
 
 检查时间：2026-09-16 18:02（北京时间）
 
-当前监测范围内暂未发现此类活动。
+这次没查到，明天再看看。
 
-> 数据来自 Steam 国区公开商店：限免搜索与官方推荐栏，每天北京时间 08:17 自动检查一次；手动更新主页也可检查。不是全站无遗漏监测；优惠可能提前结束或有地区限制，以你登录后的商店为准。商店显示的截止时间按原文保留，不擅自换算时区。
+国区商店结果，可能有遗漏；领取资格和截止时间以登录后的 Steam 页面为准。
 
 <a id="frog"></a>
 ## 🐸 小呱的慢旅行
 
-![小呱今天的明信片](https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/frog-5409bbc0dbd8.svg)
+![小呱今天的明信片](https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/frog-535d098dbb4f.svg)
 
 **体力：100/100**　·　**旅行：1 次**　·　**明天：体力够就出发**
 
-小呱今天已经吃过饭团啦，明天再来吧。
+今天已喂过。
 
-[🍙 喂小呱](https://github.com/mxz31967-collab/mxz31967-collab/issues/new?title=%E5%96%82%E5%B0%8F%E5%91%B1&body=%E7%82%B9%E5%87%BB%E4%B8%8B%E6%96%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E6%8C%89%E9%92%AE%E5%8D%B3%E5%8F%AF%E3%80%82%0A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%AA%E6%8E%A5%E5%8F%97%E4%B8%BB%E9%A1%B5%E4%B8%BB%E4%BA%BA%E5%8F%91%E8%B5%B7%E7%9A%84%E6%93%8D%E4%BD%9C%EF%BC%9B%E5%AE%8C%E6%88%90%E5%90%8E%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E3%80%82)　[🏡 明天休息](https://github.com/mxz31967-collab/mxz31967-collab/issues/new?title=%E6%98%8E%E5%A4%A9%E4%BC%91%E6%81%AF&body=%E7%82%B9%E5%87%BB%E4%B8%8B%E6%96%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E6%8C%89%E9%92%AE%E5%8D%B3%E5%8F%AF%E3%80%82%0A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%AA%E6%8E%A5%E5%8F%97%E4%B8%BB%E9%A1%B5%E4%B8%BB%E4%BA%BA%E5%8F%91%E8%B5%B7%E7%9A%84%E6%93%8D%E4%BD%9C%EF%BC%9B%E5%AE%8C%E6%88%90%E5%90%8E%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E3%80%82)　[🎒 明天出发](https://github.com/mxz31967-collab/mxz31967-collab/issues/new?title=%E6%98%8E%E5%A4%A9%E5%87%BA%E5%8F%91&body=%E7%82%B9%E5%87%BB%E4%B8%8B%E6%96%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E6%8C%89%E9%92%AE%E5%8D%B3%E5%8F%AF%E3%80%82%0A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%AA%E6%8E%A5%E5%8F%97%E4%B8%BB%E9%A1%B5%E4%B8%BB%E4%BA%BA%E5%8F%91%E8%B5%B7%E7%9A%84%E6%93%8D%E4%BD%9C%EF%BC%9B%E5%AE%8C%E6%88%90%E5%90%8E%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E3%80%82)　[📮 翻旅行相册](https://github.com/mxz31967-collab/mxz31967-collab/blob/main/旅行相册.md)
+[🍙 喂小呱](https://github.com/mxz31967-collab/mxz31967-collab/issues/new?title=%E5%96%82%E5%B0%8F%E5%91%B1&body=%E6%A0%87%E9%A2%98%E5%B7%B2%E7%BB%8F%E5%A1%AB%E5%A5%BD%EF%BC%8C%E7%9B%B4%E6%8E%A5%E7%82%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E3%80%82%0A%E7%AD%89%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%EF%BC%8C%E5%86%8D%E5%9B%9E%E9%A6%96%E9%A1%B5%E5%88%B7%E6%96%B0%E3%80%82)　[🏡 明天休息](https://github.com/mxz31967-collab/mxz31967-collab/issues/new?title=%E6%98%8E%E5%A4%A9%E4%BC%91%E6%81%AF&body=%E6%A0%87%E9%A2%98%E5%B7%B2%E7%BB%8F%E5%A1%AB%E5%A5%BD%EF%BC%8C%E7%9B%B4%E6%8E%A5%E7%82%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E3%80%82%0A%E7%AD%89%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%EF%BC%8C%E5%86%8D%E5%9B%9E%E9%A6%96%E9%A1%B5%E5%88%B7%E6%96%B0%E3%80%82)　[🎒 明天出发](https://github.com/mxz31967-collab/mxz31967-collab/issues/new?title=%E6%98%8E%E5%A4%A9%E5%87%BA%E5%8F%91&body=%E6%A0%87%E9%A2%98%E5%B7%B2%E7%BB%8F%E5%A1%AB%E5%A5%BD%EF%BC%8C%E7%9B%B4%E6%8E%A5%E7%82%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E3%80%82%0A%E7%AD%89%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%EF%BC%8C%E5%86%8D%E5%9B%9E%E9%A6%96%E9%A1%B5%E5%88%B7%E6%96%B0%E3%80%82)　[📮 翻旅行相册](https://github.com/mxz31967-collab/mxz31967-collab/blob/main/旅行相册.md)
 
-<sub>喂食或安排旅行：点入口，再点绿色的「Submit new issue」（提交）。仅主页主人可操作，通常稍等一会就会更新。每天只能喂一次；不喂也会自动休息。小呱是虚拟宠物，日记由程序从旅行素材中生成。</sub>
+<sub>点完操作，还要在下一页点绿色的「Submit new issue」（提交），再回来刷新。每天喂一次就够，不喂也会自己休息。</sub>
 
 ![最近的旅行足迹](https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/footprints.svg?v=2026-09-16)
 
@@ -44,7 +44,7 @@
 **2026-09-16**　·　提示：**把地球当成收音机**
 
 <details>
-<summary>✨ 点这里拆开今天的盲盒</summary>
+<summary>拆开看看</summary>
 
 ### 全球电台花园
 
@@ -52,24 +52,23 @@
 
 [🚀 打开今天的网站](https://radio.garden/)
 
-每天一个，整轮抽完之前不重复。网站不限语言，英文页面可用浏览器翻译；上面也有中文玩法提示。
+每天换一个，一轮抽完再重复。遇到英文就用浏览器翻译。
 
 </details>
 
 <a id="snake"></a>
-## 🐍 会吃格子的贪吃蛇
+## 🐍 我的贡献贪吃蛇
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/snake-dark-551e751a30e5.svg">
   <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/snake-551e751a30e5.svg" width="100%">
 </picture>
 
-最近生成：2026-09-16。这是根据 GitHub 贡献图生成的动画，每天更新；不是键盘控制的小游戏。
+更新于 2026-09-16 · 看看最近的贡献格子。
 
-<sub>动画使用开源项目 <a href="https://github.com/Platane/snk">Platane/snk</a>；只读取 GitHub 提供的贡献格子，不会伪造贡献。</sub>
+<sub>动画来源：<a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 
 ---
 
-**第一次玩 GitHub？** [点这里看中文使用指南](https://github.com/mxz31967-collab/mxz31967-collab/blob/main/使用指南.md)　|　[查看自动更新记录](https://github.com/mxz31967-collab/mxz31967-collab/actions)　|　[立即更新主页](https://github.com/mxz31967-collab/mxz31967-collab/issues/new?title=%E6%9B%B4%E6%96%B0%E4%B8%BB%E9%A1%B5&body=%E7%82%B9%E5%87%BB%E4%B8%8B%E6%96%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E6%8C%89%E9%92%AE%E5%8D%B3%E5%8F%AF%E3%80%82%0A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%AA%E6%8E%A5%E5%8F%97%E4%B8%BB%E9%A1%B5%E4%B8%BB%E4%BA%BA%E5%8F%91%E8%B5%B7%E7%9A%84%E6%93%8D%E4%BD%9C%EF%BC%9B%E5%AE%8C%E6%88%90%E5%90%8E%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E3%80%82)
+[操作备忘](https://github.com/mxz31967-collab/mxz31967-collab/blob/main/使用指南.md)　|　[运行记录](https://github.com/mxz31967-collab/mxz31967-collab/actions)　|　[现在更新一次](https://github.com/mxz31967-collab/mxz31967-collab/issues/new?title=%E6%9B%B4%E6%96%B0%E4%B8%BB%E9%A1%B5&body=%E6%A0%87%E9%A2%98%E5%B7%B2%E7%BB%8F%E5%A1%AB%E5%A5%BD%EF%BC%8C%E7%9B%B4%E6%8E%A5%E7%82%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E3%80%82%0A%E7%AD%89%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%EF%BC%8C%E5%86%8D%E5%9B%9E%E9%A6%96%E9%A1%B5%E5%88%B7%E6%96%B0%E3%80%82)
 
-<sub>每天的小惊喜，慢慢来就好。</sub>
