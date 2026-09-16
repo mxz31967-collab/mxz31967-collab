@@ -109,7 +109,7 @@ def render(state):
 '''
     md+=section('🎁 限时领取 · 永久保留',state.get('steam',{}).get('keep',{}))
     md+=section('⏳ 免费周末 · 限时试玩',state.get('steam',{}).get('trial',{}))
-    md+='> 数据来自 Steam 国区公开商店：限免搜索与官方推荐栏，每 6 小时检查。不是全站无遗漏监测；优惠可能提前结束或有地区限制，以你登录后的商店为准。商店显示的截止时间按原文保留，不擅自换算时区。\n\n'
+    md+='> 数据来自 Steam 国区公开商店：限免搜索与官方推荐栏，每天北京时间 08:17 自动检查一次；手动更新主页也可检查。不是全站无遗漏监测；优惠可能提前结束或有地区限制，以你登录后的商店为准。商店显示的截止时间按原文保留，不擅自换算时区。\n\n'
     md+=f'''<a id="frog"></a>
 ## 🐸 小呱的慢旅行
 
@@ -139,7 +139,7 @@ def render(state):
 
 [🚀 打开今天的网站]({site['url']})
 
-每天一个，整轮抽完之前不重复。外部网站可能含英文菜单，先照上面的中文说明玩就行。
+每天一个，整轮抽完之前不重复。网站不限语言，英文页面可用浏览器翻译；上面也有中文玩法提示。
 
 </details>
 
@@ -178,7 +178,8 @@ def main():
         if mode not in ACTIONS:raise ValueError('不支持的操作')
         state['frog']=daily_frog(state.get('frog',{}),today,mode)
         state['box']=daily_box(state.get('box',{}),today,read(Path('data/websites.json'),[]))
-        state['steam']=steam.refresh(state.get('steam',{}))
+        if mode == '更新主页':
+            state['steam']=steam.refresh(state.get('steam',{}))
         state['updated_at']=now.strftime('%Y-%m-%d %H:%M')
     if a.snake_complete:state['snake_day']=today
     render(state);save(Path('data/state.json'),state)
