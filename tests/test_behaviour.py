@@ -24,6 +24,11 @@ class BehaviourTests(unittest.TestCase):
     def test_featured_paid_sale_not_trial(self):
         data={'specials':{'items':[{'id':10,'type':0,'name':'Play for free this weekend'},{'id':11,'type':0,'name':'Weekend deal','discount_percent':70}]}}
         self.assertEqual(list(steam.trial_candidates(data)),['10'])
+    def test_permanent_f2p_is_not_a_weekend_offer(self):
+        item={'name':'Play for free'}
+        self.assertFalse(steam.is_limited_trial(item,{'is_free':True}))
+        self.assertTrue(steam.is_limited_trial(item,{'price_overview':{'initial':5000}}))
+        self.assertTrue(steam.is_limited_trial({'name':'Free Weekend'},{}))
     def test_once_per_beijing_day_and_feed_limit(self):
         first=update.daily_frog({},'2026-09-16')
         repeat=update.daily_frog(first,'2026-09-16')

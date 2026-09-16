@@ -102,13 +102,24 @@ def trial_candidates(payload):
                 found[key]=item
     return found
 
+def is_limited_trial(item, data):
+    label = ' '.join(str(item.get(k,'')) for k in ('name','body','header','subheader'))
+    if re.search(r'free weekend|免费周末',label,re.I):
+        return True
+    # "Play for free" can also advertise permanent free-to-play games.
+    price = data.get('price_overview',{})
+    paid = price.get('initial',0) > 0 or any(
+        sub.get('price_in_cents_with_discount',0) > 0
+        for group in data.get('package_groups',[]) for sub in group.get('subs',[]))
+    return bool(paid and re.search(r'play for free|免费试玩',label,re.I))
+
 def trial_offers():
     # English is used internally to detect stable campaign labels; UI stays Chinese.
     payload = get('/api/featuredcategories/', l='english').json()
     offers=[]
     for key,item in trial_candidates(payload).items():
         d = details(key)
-        if d.get('type') != 'game':
+        if d.get('type') != 'game' or not is_limited_trial(item,d):
             continue
         # The official featured campaign explicitly says Free Weekend / Play For Free.
         expiry=item.get('discount_expiration')
