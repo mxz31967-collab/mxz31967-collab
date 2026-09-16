@@ -2,7 +2,7 @@
 
 <p align="center"><a href="#steam">🎮 捡游戏</a>　·　<a href="#frog">🐸 看小呱</a>　·　<a href="#box">🎁 拆盲盒</a>　·　<a href="#snake">🐍 看贪吃蛇</a>　·　<a href="https://github.com/mxz31967-collab/mxz31967-collab/blob/main/使用指南.md">📖 中文使用指南</a></p>
 
-> 最近更新：北京时间 2026-09-16 17:53。平时打开这个主页就能看；Steam 活动需要你自己到商店领取或启动试玩。
+> 最近更新：北京时间 2026-09-16 17:56。平时打开这个主页就能看；Steam 活动需要你自己到商店领取或启动试玩。
 
 <a id="steam"></a>
 ## 🎮 Steam 免费游戏雷达
@@ -11,13 +11,13 @@
 
 ### 🎁 限时领取 · 永久保留
 
-检查时间：2026-09-16 17:53（北京时间）
+检查时间：2026-09-16 17:56（北京时间）
 
 <p><strong>Crystal Crisis</strong> · 领取后永久保留<br>在 9 月 21 日 下午 11:59 前获取该商品，即可免费保留。 存在一些限制。<br><a href="https://store.steampowered.com/app/447700/?cc=cn&amp;l=schinese">打开 Steam 中文商店 →</a></p>
 
 ### ⏳ 免费周末 · 限时试玩
 
-检查时间：2026-09-16 17:53（北京时间）
+检查时间：2026-09-16 17:56（北京时间）
 
 当前监测范围内暂未发现此类活动。
 
@@ -59,7 +59,12 @@
 <a id="snake"></a>
 ## 🐍 会吃格子的贪吃蛇
 
-动画正在准备，第一次云端生成后会自动出现在这里。
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/snake-dark.svg">
+  <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/snake.svg" width="100%">
+</picture>
+
+最近生成：2026-09-16。这是根据 GitHub 贡献图生成的动画，每天更新；不是键盘控制的小游戏。
 
 <sub>动画使用开源项目 <a href="https://github.com/Platane/snk">Platane/snk</a>；只读取 GitHub 提供的贡献格子，不会伪造贡献。</sub>
 
