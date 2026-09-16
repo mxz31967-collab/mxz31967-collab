@@ -2,7 +2,7 @@
 
 <p align="center"><a href="#steam">🎮 捡游戏</a>　·　<a href="#frog">🐸 看小呱</a>　·　<a href="#box">🎁 拆盲盒</a>　·　<a href="#snake">🐍 看贪吃蛇</a>　·　<a href="https://github.com/mxzspace/mxzspace/blob/main/使用指南.md">📖 操作备忘</a></p>
 
-> 上次更新：北京时间 2026-09-16 18:42 · 每天 08:17 自动更新。
+> 上次更新：北京时间 2026-09-16 20:41 · 每天 08:17 自动更新。
 
 <a id="steam"></a>
 ## 🎮 Steam 免费游戏雷达
@@ -11,13 +11,13 @@
 
 ### 🎁 限时领取 · 永久保留
 
-检查时间：2026-09-16 18:02（北京时间）
+检查时间：2026-09-16 20:41（北京时间）
 
 <p><strong>Crystal Crisis</strong> · 领取后永久保留<br>在 9 月 21 日 下午 11:59 前获取该商品，即可免费保留。 存在一些限制。<br><a href="https://store.steampowered.com/app/447700/?cc=cn&amp;l=schinese">去 Steam 看看 →</a></p>
 
 ### ⏳ 免费周末 · 限时试玩
 
-检查时间：2026-09-16 18:02（北京时间）
+检查时间：2026-09-16 20:41（北京时间）
 
 这次没查到，明天再看看。
 
@@ -26,7 +26,7 @@
 <a id="frog"></a>
 ## 🐸 小呱的慢旅行
 
-![小呱今天的明信片](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/frog-535d098dbb4f.svg)
+![小呱今天的明信片](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/frog-5409bbc0dbd8.svg)
 
 **体力：100/100**　·　**旅行：1 次**　·　**明天：体力够就出发**
 
