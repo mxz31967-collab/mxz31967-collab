@@ -16,7 +16,7 @@
     "travel_count": 1,
     "day": "2026-09-16",
     "rest_next": false,
-    "message": "小呱吃到了饭团，体力恢复了！",
+    "message": "主页已更新。",
     "fed_day": "2026-09-16"
   },
   "box": {
@@ -35,8 +35,8 @@
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-16 17:58",
-      "success_at": "2026-09-16 17:58",
+      "checked_at": "2026-09-16 18:02",
+      "success_at": "2026-09-16 18:02",
       "offers": [
         {
           "id": "447700",
@@ -50,11 +50,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-09-16 17:58",
-      "success_at": "2026-09-16 17:58",
+      "checked_at": "2026-09-16 18:02",
+      "success_at": "2026-09-16 18:02",
       "offers": []
     }
   },
-  "updated_at": "2026-09-16 17:58",
+  "updated_at": "2026-09-16 18:02",
   "snake_day": "2026-09-16"
 }
