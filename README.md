@@ -26,7 +26,7 @@
 <a id="frog"></a>
 ## 🐸 小呱的慢旅行
 
-![小呱今天的明信片](https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/frog.svg?v=2026-09-16)
+![小呱今天的明信片](https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/frog.svg?v=535d098dbb4f)
 
 **体力：100/100**　·　**旅行：1 次**　·　**明天：体力够就出发**
 
@@ -60,8 +60,8 @@
 ## 🐍 会吃格子的贪吃蛇
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/snake-dark.svg">
-  <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/snake-dark.svg?v=2026-09-16">
+  <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/snake.svg?v=2026-09-16" width="100%">
 </picture>
 
 最近生成：2026-09-16。这是根据 GitHub 贡献图生成的动画，每天更新；不是键盘控制的小游戏。

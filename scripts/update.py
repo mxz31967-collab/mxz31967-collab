@@ -86,9 +86,11 @@ def render(state):
     (assets/'footprints.svg').write_text(art.footprints(f['history']),encoding='utf-8')
     # Today's card can reflect feeding; previous days remain archived.
     (ROOT/'postcards'/f'{day}.svg').write_text(art.postcard(e,len(f['history']),f['energy']),encoding='utf-8')
+    frog_version=hashlib.sha256((assets/'frog.svg').read_bytes()).hexdigest()[:12]
     diary='# 小呱的旅行相册\n\n这是一只程序养的小青蛙，旅行、纪念品和日记都是虚拟内容。\n\n[返回个人主页](https://github.com/'+OWNER+')\n\n'
     for old in reversed(f['history']):
-        diary+=f'## {old["date"]} · {old["place"]}\n\n![{old["place"]}](postcards/{old["date"]}.svg)\n\n{old["diary"]}\n\n纪念品：{old["souvenir"]}\n\n'
+        card_version=hashlib.sha256((ROOT/'postcards'/f'{old["date"]}.svg').read_bytes()).hexdigest()[:12]
+        diary+=f'## {old["date"]} · {old["place"]}\n\n![{old["place"]}](postcards/{old["date"]}.svg?v={card_version})\n\n{old["diary"]}\n\n纪念品：{old["souvenir"]}\n\n'
     (ROOT/'旅行相册.md').write_text(diary,encoding='utf-8')
     status=f'北京时间 {state["updated_at"]}'
     md=f'''<p align="center"><img src="{RAW}/assets/welcome.svg" alt="我的 GitHub 小乐园" width="100%"></p>
@@ -109,7 +111,7 @@ def render(state):
     md+=f'''<a id="frog"></a>
 ## 🐸 小呱的慢旅行
 
-![小呱今天的明信片]({RAW}/assets/frog.svg?v={day})
+![小呱今天的明信片]({RAW}/assets/frog.svg?v={frog_version})
 
 **体力：{f['energy']}/100**　·　**旅行：{f['travel_count']} 次**　·　**明天：{'在家休息' if f.get('rest_next') else '体力够就出发'}**
 
@@ -145,8 +147,8 @@ def render(state):
 '''
     if (assets/'snake.svg').exists():
         md+=f'''<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="{RAW}/assets/snake-dark.svg">
-  <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="{RAW}/assets/snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="{RAW}/assets/snake-dark.svg?v={state.get("snake_day",day)}">
+  <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="{RAW}/assets/snake.svg?v={state.get("snake_day",day)}" width="100%">
 </picture>
 
 最近生成：{state.get('snake_day','等待更新')}。这是根据 GitHub 贡献图生成的动画，每天更新；不是键盘控制的小游戏。
