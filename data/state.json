@@ -1,0 +1,58 @@
+{
+  "frog": {
+    "name": "小呱",
+    "energy": 72,
+    "history": [
+      {
+        "place": "黄山",
+        "spot": "云海山间",
+        "souvenir": "松针书签",
+        "diary": "背着饭团爬到山顶，云朵就在脚下排队。",
+        "scene": "mountain",
+        "date": "2026-09-16",
+        "rest": false
+      }
+    ],
+    "travel_count": 1,
+    "day": "2026-09-16",
+    "rest_next": false,
+    "message": "主页已更新。"
+  },
+  "box": {
+    "date": "2026-09-16",
+    "site": {
+      "name": "全球电台花园",
+      "url": "https://radio.garden/",
+      "tag": "声音旅行",
+      "hint": "把地球当成收音机",
+      "how": "拖动地球选择绿色圆点，听当地电台；浏览器可能需要先点一下才会播放声音。"
+    },
+    "cycle_used": [
+      "https://radio.garden/"
+    ]
+  },
+  "steam": {
+    "keep": {
+      "ok": true,
+      "checked_at": "2026-09-16 17:53",
+      "success_at": "2026-09-16 17:53",
+      "offers": [
+        {
+          "id": "447700",
+          "name": "Crystal Crisis",
+          "kind": "keep",
+          "note": "在 9 月 21 日 下午 11:59 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/447700/?cc=cn&l=schinese",
+          "dlc": false
+        }
+      ]
+    },
+    "trial": {
+      "ok": true,
+      "checked_at": "2026-09-16 17:53",
+      "success_at": "2026-09-16 17:53",
+      "offers": []
+    }
+  },
+  "updated_at": "2026-09-16 17:53"
+}
