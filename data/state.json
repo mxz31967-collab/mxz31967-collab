@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 72,
+    "energy": 100,
     "history": [
       {
         "place": "黄山",
@@ -16,7 +16,8 @@
     "travel_count": 1,
     "day": "2026-09-16",
     "rest_next": false,
-    "message": "主页已更新。"
+    "message": "小呱吃到了饭团，体力恢复了！",
+    "fed_day": "2026-09-16"
   },
   "box": {
     "date": "2026-09-16",
@@ -34,8 +35,8 @@
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-16 17:56",
-      "success_at": "2026-09-16 17:56",
+      "checked_at": "2026-09-16 17:58",
+      "success_at": "2026-09-16 17:58",
       "offers": [
         {
           "id": "447700",
@@ -49,11 +50,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-09-16 17:56",
-      "success_at": "2026-09-16 17:56",
+      "checked_at": "2026-09-16 17:58",
+      "success_at": "2026-09-16 17:58",
       "offers": []
     }
   },
-  "updated_at": "2026-09-16 17:56",
+  "updated_at": "2026-09-16 17:58",
   "snake_day": "2026-09-16"
 }

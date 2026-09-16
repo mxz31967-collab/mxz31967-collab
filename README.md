@@ -2,7 +2,7 @@
 
 <p align="center"><a href="#steam">🎮 捡游戏</a>　·　<a href="#frog">🐸 看小呱</a>　·　<a href="#box">🎁 拆盲盒</a>　·　<a href="#snake">🐍 看贪吃蛇</a>　·　<a href="https://github.com/mxz31967-collab/mxz31967-collab/blob/main/使用指南.md">📖 中文使用指南</a></p>
 
-> 最近更新：北京时间 2026-09-16 17:56。平时打开这个主页就能看；Steam 活动需要你自己到商店领取或启动试玩。
+> 最近更新：北京时间 2026-09-16 17:58。平时打开这个主页就能看；Steam 活动需要你自己到商店领取或启动试玩。
 
 <a id="steam"></a>
 ## 🎮 Steam 免费游戏雷达
@@ -11,13 +11,13 @@
 
 ### 🎁 限时领取 · 永久保留
 
-检查时间：2026-09-16 17:56（北京时间）
+检查时间：2026-09-16 17:58（北京时间）
 
 <p><strong>Crystal Crisis</strong> · 领取后永久保留<br>在 9 月 21 日 下午 11:59 前获取该商品，即可免费保留。 存在一些限制。<br><a href="https://store.steampowered.com/app/447700/?cc=cn&amp;l=schinese">打开 Steam 中文商店 →</a></p>
 
 ### ⏳ 免费周末 · 限时试玩
 
-检查时间：2026-09-16 17:56（北京时间）
+检查时间：2026-09-16 17:58（北京时间）
 
 当前监测范围内暂未发现此类活动。
 
@@ -28,9 +28,9 @@
 
 ![小呱今天的明信片](https://raw.githubusercontent.com/mxz31967-collab/mxz31967-collab/main/assets/frog.svg?v=2026-09-16)
 
-**体力：72/100**　·　**旅行：1 次**　·　**明天：体力够就出发**
+**体力：100/100**　·　**旅行：1 次**　·　**明天：体力够就出发**
 
-主页已更新。
+小呱吃到了饭团，体力恢复了！
 
 [🍙 喂小呱](https://github.com/mxz31967-collab/mxz31967-collab/issues/new?title=%E5%96%82%E5%B0%8F%E5%91%B1&body=%E7%82%B9%E5%87%BB%E4%B8%8B%E6%96%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E6%8C%89%E9%92%AE%E5%8D%B3%E5%8F%AF%E3%80%82%0A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%AA%E6%8E%A5%E5%8F%97%E4%B8%BB%E9%A1%B5%E4%B8%BB%E4%BA%BA%E5%8F%91%E8%B5%B7%E7%9A%84%E6%93%8D%E4%BD%9C%EF%BC%9B%E5%AE%8C%E6%88%90%E5%90%8E%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E3%80%82)　[🏡 明天休息](https://github.com/mxz31967-collab/mxz31967-collab/issues/new?title=%E6%98%8E%E5%A4%A9%E4%BC%91%E6%81%AF&body=%E7%82%B9%E5%87%BB%E4%B8%8B%E6%96%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E6%8C%89%E9%92%AE%E5%8D%B3%E5%8F%AF%E3%80%82%0A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%AA%E6%8E%A5%E5%8F%97%E4%B8%BB%E9%A1%B5%E4%B8%BB%E4%BA%BA%E5%8F%91%E8%B5%B7%E7%9A%84%E6%93%8D%E4%BD%9C%EF%BC%9B%E5%AE%8C%E6%88%90%E5%90%8E%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E3%80%82)　[🎒 明天出发](https://github.com/mxz31967-collab/mxz31967-collab/issues/new?title=%E6%98%8E%E5%A4%A9%E5%87%BA%E5%8F%91&body=%E7%82%B9%E5%87%BB%E4%B8%8B%E6%96%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E6%8C%89%E9%92%AE%E5%8D%B3%E5%8F%AF%E3%80%82%0A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%AA%E6%8E%A5%E5%8F%97%E4%B8%BB%E9%A1%B5%E4%B8%BB%E4%BA%BA%E5%8F%91%E8%B5%B7%E7%9A%84%E6%93%8D%E4%BD%9C%EF%BC%9B%E5%AE%8C%E6%88%90%E5%90%8E%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E3%80%82)　[📮 翻旅行相册](https://github.com/mxz31967-collab/mxz31967-collab/blob/main/旅行相册.md)
 
