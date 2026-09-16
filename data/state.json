@@ -16,7 +16,7 @@
     "travel_count": 1,
     "day": "2026-09-16",
     "rest_next": false,
-    "message": "主页已更新。",
+    "message": "小呱今天已经吃过饭团啦，明天再来吧。",
     "fed_day": "2026-09-16"
   },
   "box": {
@@ -55,6 +55,6 @@
       "offers": []
     }
   },
-  "updated_at": "2026-09-16 18:02",
+  "updated_at": "2026-09-16 18:42",
   "snake_day": "2026-09-16"
 }
