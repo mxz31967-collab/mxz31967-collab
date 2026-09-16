@@ -7,7 +7,7 @@ from urllib.parse import urlencode
 import steam, art
 
 ROOT=Path(__file__).resolve().parents[1]
-OWNER='mxz31967-collab'
+OWNER='mxzspace'
 REPO=f'https://github.com/{OWNER}/{OWNER}'
 RAW=f'https://raw.githubusercontent.com/{OWNER}/{OWNER}/main'
 CN=timezone(timedelta(hours=8))
