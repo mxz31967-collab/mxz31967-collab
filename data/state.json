@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 100,
+    "energy": 82,
     "history": [
       {
         "place": "黄山",
@@ -11,33 +11,51 @@
         "scene": "mountain",
         "date": "2026-09-16",
         "rest": false
+      },
+      {
+        "place": "成都",
+        "spot": "竹林茶馆",
+        "souvenir": "竹叶明信片",
+        "diary": "喝了一口温热的茶，把午后留给摇晃的竹影。",
+        "scene": "forest",
+        "date": "2026-09-17",
+        "rest": false
       }
     ],
-    "travel_count": 1,
-    "day": "2026-09-16",
+    "travel_count": 2,
+    "day": "2026-09-17",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-16"
   },
   "box": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "site": {
-      "name": "全球电台花园",
-      "url": "https://radio.garden/",
-      "tag": "声音旅行",
-      "hint": "把地球当成收音机",
-      "how": "拖动地球选择绿色圆点，听当地电台；浏览器可能需要先点一下才会播放声音。"
+      "name": "小小炼金术",
+      "url": "https://littlealchemy2.com/",
+      "tag": "合成游戏",
+      "hint": "水、火、空气，会合成什么",
+      "how": "把两个元素拖到一起尝试合成，先用图标理解玩法。部分提示为英文。"
     },
     "cycle_used": [
-      "https://radio.garden/"
+      "https://radio.garden/",
+      "https://littlealchemy2.com/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-16 20:41",
-      "success_at": "2026-09-16 20:41",
+      "checked_at": "2026-09-17 12:52",
+      "success_at": "2026-09-17 12:52",
       "offers": [
+        {
+          "id": "2000040",
+          "name": "Space Menace",
+          "kind": "keep",
+          "note": "在 9 月 23 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/2000040/?cc=cn&l=schinese",
+          "dlc": false
+        },
         {
           "id": "447700",
           "name": "Crystal Crisis",
@@ -50,11 +68,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-09-16 20:41",
-      "success_at": "2026-09-16 20:41",
+      "checked_at": "2026-09-17 12:52",
+      "success_at": "2026-09-17 12:52",
       "offers": []
     }
   },
-  "updated_at": "2026-09-16 20:41",
-  "snake_day": "2026-09-16"
+  "updated_at": "2026-09-17 12:52",
+  "snake_day": "2026-09-17"
 }
