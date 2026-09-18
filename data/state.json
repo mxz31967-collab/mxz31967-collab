@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 82,
+    "energy": 64,
     "history": [
       {
         "place": "黄山",
@@ -20,33 +20,43 @@
         "scene": "forest",
         "date": "2026-09-17",
         "rest": false
+      },
+      {
+        "place": "呼伦贝尔",
+        "spot": "草原营地",
+        "souvenir": "草叶手环",
+        "diary": "草地一直铺到天边，今晚的帐篷要离星星近一点。",
+        "scene": "forest",
+        "date": "2026-09-18",
+        "rest": false
       }
     ],
-    "travel_count": 2,
-    "day": "2026-09-17",
+    "travel_count": 3,
+    "day": "2026-09-18",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-16"
   },
   "box": {
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "site": {
-      "name": "小小炼金术",
-      "url": "https://littlealchemy2.com/",
-      "tag": "合成游戏",
-      "hint": "水、火、空气，会合成什么",
-      "how": "把两个元素拖到一起尝试合成，先用图标理解玩法。部分提示为英文。"
+      "name": "窗外的世界",
+      "url": "https://www.window-swap.com/",
+      "tag": "云旅行",
+      "hint": "借一扇别人的窗，看世界",
+      "how": "点打开窗户的按钮，看来自别处的风景和环境声音；部分功能需要注册。"
     },
     "cycle_used": [
       "https://radio.garden/",
-      "https://littlealchemy2.com/"
+      "https://littlealchemy2.com/",
+      "https://www.window-swap.com/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-17 12:52",
-      "success_at": "2026-09-17 12:52",
+      "checked_at": "2026-09-18 12:43",
+      "success_at": "2026-09-18 12:43",
       "offers": [
         {
           "id": "2000040",
@@ -55,6 +65,14 @@
           "note": "在 9 月 23 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
           "url": "https://store.steampowered.com/app/2000040/?cc=cn&l=schinese",
           "dlc": false
+        },
+        {
+          "id": "4355480",
+          "name": "《消逝的光芒：困兽》“高压电”武器包",
+          "kind": "keep",
+          "note": "在 9 月 24 日 上午 7:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/4355480/?cc=cn&l=schinese",
+          "dlc": true
         },
         {
           "id": "447700",
@@ -68,11 +86,19 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-09-17 12:52",
-      "success_at": "2026-09-17 12:52",
-      "offers": []
+      "checked_at": "2026-09-18 12:43",
+      "success_at": "2026-09-18 12:43",
+      "offers": [
+        {
+          "id": "1757300",
+          "name": "Jump Space",
+          "kind": "trial",
+          "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
+          "url": "https://store.steampowered.com/app/1757300/?cc=cn&l=schinese"
+        }
+      ]
     }
   },
-  "updated_at": "2026-09-17 12:52",
-  "snake_day": "2026-09-17"
+  "updated_at": "2026-09-18 12:43",
+  "snake_day": "2026-09-18"
 }
