@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 64,
+    "energy": 46,
     "history": [
       {
         "place": "黄山",
@@ -29,34 +29,44 @@
         "scene": "forest",
         "date": "2026-09-18",
         "rest": false
+      },
+      {
+        "place": "张家界",
+        "spot": "山间栈道",
+        "souvenir": "云朵邮票",
+        "diary": "走在山间，感觉每座山都顶着一顶云做的帽子。",
+        "scene": "mountain",
+        "date": "2026-09-19",
+        "rest": false
       }
     ],
-    "travel_count": 3,
-    "day": "2026-09-18",
+    "travel_count": 4,
+    "day": "2026-09-19",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-16"
   },
   "box": {
-    "date": "2026-09-18",
+    "date": "2026-09-19",
     "site": {
-      "name": "窗外的世界",
-      "url": "https://www.window-swap.com/",
-      "tag": "云旅行",
-      "hint": "借一扇别人的窗，看世界",
-      "how": "点打开窗户的按钮，看来自别处的风景和环境声音；部分功能需要注册。"
+      "name": "格子作曲机",
+      "url": "https://musiclab.chromeexperiments.com/Song-Maker/",
+      "tag": "音乐玩具",
+      "hint": "画几格，就有一首歌",
+      "how": "在彩色格子里点几下，再点左下角播放三角形，听你的旋律。"
     },
     "cycle_used": [
       "https://radio.garden/",
       "https://littlealchemy2.com/",
-      "https://www.window-swap.com/"
+      "https://www.window-swap.com/",
+      "https://musiclab.chromeexperiments.com/Song-Maker/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-18 12:43",
-      "success_at": "2026-09-18 12:43",
+      "checked_at": "2026-09-19 12:37",
+      "success_at": "2026-09-19 12:37",
       "offers": [
         {
           "id": "2000040",
@@ -64,6 +74,14 @@
           "kind": "keep",
           "note": "在 9 月 23 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
           "url": "https://store.steampowered.com/app/2000040/?cc=cn&l=schinese",
+          "dlc": false
+        },
+        {
+          "id": "2484180",
+          "name": "Deadshot",
+          "kind": "keep",
+          "note": "在 9 月 23 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/2484180/?cc=cn&l=schinese",
           "dlc": false
         },
         {
@@ -86,8 +104,8 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-09-18 12:43",
-      "success_at": "2026-09-18 12:43",
+      "checked_at": "2026-09-19 12:37",
+      "success_at": "2026-09-19 12:37",
       "offers": [
         {
           "id": "1757300",
@@ -99,6 +117,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-18 12:43",
-  "snake_day": "2026-09-18"
+  "updated_at": "2026-09-19 12:37",
+  "snake_day": "2026-09-19"
 }
