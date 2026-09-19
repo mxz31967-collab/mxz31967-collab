@@ -2,7 +2,7 @@
 
 <p align="center"><a href="#steam">🎮 捡游戏</a>　·　<a href="#frog">🐸 看小呱</a>　·　<a href="#box">🎁 拆盲盒</a>　·　<a href="#snake">🐍 看贪吃蛇</a>　·　<a href="https://github.com/mxzspace/mxzspace/blob/main/使用指南.md">📖 操作备忘</a></p>
 
-> 上次更新：北京时间 2026-09-19 12:37 · 每天 08:17 自动更新。
+> 上次更新：北京时间 2026-09-19 22:35 · 每天 08:17 自动更新。
 
 <a id="steam"></a>
 ## 🎮 Steam 免费游戏雷达
@@ -32,11 +32,11 @@
 <a id="frog"></a>
 ## 🐸 小呱的慢旅行
 
-![小呱今天的明信片](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/frog-dce852325942.svg)
+![小呱今天的明信片](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/frog-5623c386fc0d.svg)
 
-**体力：46/100**　·　**旅行：4 次**　·　**明天：体力够就出发**
+**体力：76/100**　·　**旅行：4 次**　·　**明天：体力够就出发**
 
-今天还没喂。
+今天已喂过。
 
 [🍙 喂小呱](https://github.com/mxzspace/mxzspace/issues/new?title=%E5%96%82%E5%B0%8F%E5%91%B1&body=%E6%A0%87%E9%A2%98%E5%B7%B2%E7%BB%8F%E5%A1%AB%E5%A5%BD%EF%BC%8C%E7%9B%B4%E6%8E%A5%E7%82%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E3%80%82%0A%E7%AD%89%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%EF%BC%8C%E5%86%8D%E5%9B%9E%E9%A6%96%E9%A1%B5%E5%88%B7%E6%96%B0%E3%80%82)　[🏡 明天休息](https://github.com/mxzspace/mxzspace/issues/new?title=%E6%98%8E%E5%A4%A9%E4%BC%91%E6%81%AF&body=%E6%A0%87%E9%A2%98%E5%B7%B2%E7%BB%8F%E5%A1%AB%E5%A5%BD%EF%BC%8C%E7%9B%B4%E6%8E%A5%E7%82%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E3%80%82%0A%E7%AD%89%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%EF%BC%8C%E5%86%8D%E5%9B%9E%E9%A6%96%E9%A1%B5%E5%88%B7%E6%96%B0%E3%80%82)　[🎒 明天出发](https://github.com/mxzspace/mxzspace/issues/new?title=%E6%98%8E%E5%A4%A9%E5%87%BA%E5%8F%91&body=%E6%A0%87%E9%A2%98%E5%B7%B2%E7%BB%8F%E5%A1%AB%E5%A5%BD%EF%BC%8C%E7%9B%B4%E6%8E%A5%E7%82%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E3%80%82%0A%E7%AD%89%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%EF%BC%8C%E5%86%8D%E5%9B%9E%E9%A6%96%E9%A1%B5%E5%88%B7%E6%96%B0%E3%80%82)　[📮 翻旅行相册](https://github.com/mxzspace/mxzspace/blob/main/旅行相册.md)
 
